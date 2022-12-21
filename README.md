@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @riobatiberius
+- 👋 Hi, I’m Rioba Tiberius
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning in the University of Murang'a Kenya
+- 🌱 I’m currently a student in Murang'a University of Technology
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ... via email erickrioba01@gmail.com
+- 📫 How to reach me ... via email riobatiberius@gmail.com
 
 <!---
 riobatiberius/riobatiberius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
