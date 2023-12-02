@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rioba Tiberius
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently a student in Murang'a University of Technology
+- 🌱 Graduated from Murang'a University of Technology
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ... via email riobatiberius@gmail.com
 
